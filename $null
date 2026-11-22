@@ -1,0 +1,139 @@
+git_status_placeholder=1 : The term 'git_status_placeholder=1' is not recognized as the name of a cmdlet, function, 
+script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:155
++ ...  Select-Object -ExpandProperty Name; git_status_placeholder=1 ; power ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (git_status_placeholder=1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:PSObject) [Select-Object], PSArgumentException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:PSObject) [Select-Object], PSArgumentException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (    Directory: ...rma\Desktop\New:PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:PSObject) [Select-Object], PSArgumentException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:PSObject) [Select-Object], PSArgumentException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (Mode           ...               :PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (----           ...               :PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (-a----        1...               :PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (-a----        1...               :PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (-a----        1...               :PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (-a----        1...               :PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (-a----        1...               :PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (-a----        1...               :PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (-a----        1...               :PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (-a----        1...               :PSObject) [Select-Object], PSArgumen 
+   tException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:PSObject) [Select-Object], PSArgumentException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 
+Select-Object : Property "Name" cannot be found.
+At line:1 char:235
++ ... ile -Command Get-ChildItem -File | Select-Object -ExpandProperty Name
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:PSObject) [Select-Object], PSArgumentException
+    + FullyQualifiedErrorId : ExpandPropertyNotFound,Microsoft.PowerShell.Commands.SelectObjectCommand
+ 

@@ -1,0 +1,17 @@
+.gradle/
+**/build/
+local.properties
+.idea/
+.vscode/
+.codebenders/
+.kotlin/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.pem
+*.p12
+.env*
+captures/
+.externalNativeBuild/
+.cxx/
